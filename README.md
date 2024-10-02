@@ -1,6 +1,6 @@
 ## Hi I am Eigen Hari
 
-<!--
+
 **hpg1164/hpg1164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 -🌱 I’m currently learning mathematical foundation behind  modelling, simulation and optimization
 
 
--->
+
