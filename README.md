@@ -2,7 +2,7 @@
 
 - 🔭 I’m  I’m interested in optimization algorithms, simulation and modelling, data driven and data based modelling
 - 🌱 I’m currently learning mathematical foundation behind  modelling, simulation and optimization
--   Currently lerning safety robotics and research in the bridge of CBF and hemelton jocobi reachiablilty. 
+-   Currently lerning legged robotics and try to implement safe control . 
   
 
  
